@@ -1,3 +1,5 @@
-# this is a blank readme.md
+Notes from LCI Intermediate 2023 at Mississippi State University - Starksville, MS
 
-# lci
+Using this to distribute my settings from the head node to the cluster nodes. 
+
+
