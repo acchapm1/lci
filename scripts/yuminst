@@ -1,0 +1,3 @@
+for h in lci-compute-21-{1..2} lci-storage-21-{1..4} ; do
+    ssh root@$h yum install -y gcc-c++ kernel-headers-$(uname -r) kernel-devel-$(uname -r) vim
+done
