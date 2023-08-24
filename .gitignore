@@ -1,4 +1,4 @@
 ### LCI ignores
 
-.tmux
-.ssh
+.tmux/
+.ssh/

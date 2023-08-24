@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692884765,,"wq"
+|2,0,1692885087,,"wq"
 :q
 |2,0,1692884482,,"q"
 :q!
@@ -41,36 +41,50 @@
 |<"DEVLINKS=/dev/disk/by-path/virtio-pci-0000:00:08.0 /dev/disk/by-path/pci-0000:00:08.0 /dev/disk/by-id/virtio-368fffd6-fc98-48fd-b",""
 
 # File marks:
-'0  4  3  ~/.gitignore
-|4,48,4,3,1692884765,"~/.gitignore"
-'1  7  37  ~/.git/config
-|4,49,7,37,1692884558,"~/.git/config"
-'2  7  10  ~/.git/config
-|4,50,7,10,1692884515,"~/.git/config"
-'3  4  0  ~/.gitconfig
-|4,51,4,0,1692884482,"~/.gitconfig"
-'4  6  3  ~/.ssh/config
-|4,52,6,3,1692884430,"~/.ssh/config"
-'5  1  0  ~/.viminfo
-|4,53,1,0,1692884378,"~/.viminfo"
-'6  4  0  ~/.gitignore
-|4,54,4,0,1692884357,"~/.gitignore"
-'7  6  3  ~/.ssh/config
-|4,55,6,3,1692884138,"~/.ssh/config"
-'8  2  0  ~/README.md
-|4,56,2,0,1692883796,"~/README.md"
-'9  20  16  ~/.bashrc
-|4,57,20,16,1692883522,"~/.bashrc"
+'0  3  5  ~/.gitignore
+|4,48,3,5,1692885087,"~/.gitignore"
+'1  4  3  ~/.gitignore
+|4,49,4,3,1692884765,"~/.gitignore"
+'2  4  3  ~/.gitignore
+|4,50,4,3,1692884765,"~/.gitignore"
+'3  7  37  ~/.git/config
+|4,51,7,37,1692884558,"~/.git/config"
+'4  7  10  ~/.git/config
+|4,52,7,10,1692884515,"~/.git/config"
+'5  4  0  ~/.gitconfig
+|4,53,4,0,1692884482,"~/.gitconfig"
+'6  6  3  ~/.ssh/config
+|4,54,6,3,1692884430,"~/.ssh/config"
+'7  1  0  ~/.viminfo
+|4,55,1,0,1692884378,"~/.viminfo"
+'8  4  0  ~/.gitignore
+|4,56,4,0,1692884357,"~/.gitignore"
+'9  4  0  ~/.gitignore
+|4,57,4,0,1692884357,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  3  5  ~/.gitignore
+|4,39,3,5,1692885087,"~/.gitignore"
+-'  4  3  ~/.gitignore
+|4,39,4,3,1692885077,"~/.gitignore"
 -'  4  3  ~/.gitignore
 |4,39,4,3,1692884765,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1692884754,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1692884754,"~/.gitignore"
 -'  7  37  ~/.git/config
 |4,39,7,37,1692884558,"~/.git/config"
 -'  7  37  ~/.git/config
 |4,39,7,37,1692884558,"~/.git/config"
+-'  7  37  ~/.git/config
+|4,39,7,37,1692884558,"~/.git/config"
+-'  7  37  ~/.git/config
+|4,39,7,37,1692884558,"~/.git/config"
+-'  7  10  ~/.git/config
+|4,39,7,10,1692884515,"~/.git/config"
+-'  7  10  ~/.git/config
+|4,39,7,10,1692884515,"~/.git/config"
 -'  7  10  ~/.git/config
 |4,39,7,10,1692884515,"~/.git/config"
 -'  7  10  ~/.git/config
@@ -83,6 +97,14 @@
 |4,39,1,0,1692884490,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1692884490,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1692884490,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1692884490,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1692884490,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1692884490,"~/.git/config"
 -'  4  0  ~/.gitconfig
 |4,39,4,0,1692884482,"~/.gitconfig"
 -'  4  0  ~/.gitconfig
@@ -99,6 +121,38 @@
 |4,39,4,0,1692884482,"~/.gitconfig"
 -'  4  0  ~/.gitconfig
 |4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  4  0  ~/.gitconfig
+|4,39,4,0,1692884482,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1692884478,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1692884478,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
@@ -147,6 +201,38 @@
 |4,39,6,3,1692884430,"~/.ssh/config"
 -'  6  3  ~/.ssh/config
 |4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
+-'  6  3  ~/.ssh/config
+|4,39,6,3,1692884430,"~/.ssh/config"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1692884378,"~/.viminfo"
 -'  1  0  ~/.viminfo
@@ -177,102 +263,17 @@
 |4,39,1,0,1692884378,"~/.viminfo"
 -'  1  0  ~/.viminfo
 |4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  1  0  ~/.viminfo
-|4,39,1,0,1692884378,"~/.viminfo"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1692884357,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1692884765	0
-	"	4	3
-	^	4	4
-	.	4	3
+	*	1692885087	0
+	"	3	5
+	^	3	6
+	.	3	5
 	+	3	0
-	+	4	3
+	+	4	4
+	+	3	5
 
 > ~/.git/config
 	*	1692884557	0
